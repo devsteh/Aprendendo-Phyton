@@ -55,5 +55,3 @@ if media >= 6:
     print ('Média: {}, você foi passou na matéria!'.format(media))
 else:
     print('Média: {}, você foi reprovado.'.format(media))
-
-    
